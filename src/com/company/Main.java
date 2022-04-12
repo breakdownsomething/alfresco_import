@@ -61,7 +61,7 @@ public class Main {
         Map<String, String> params = new HashMap<String, String>();
         params.put(SessionParameter.USER, "dmatessov");
         params.put(SessionParameter.ATOMPUB_URL, "http://bkzalmadb22:9080/cmis/resources/");
-        params.put(SessionParameter.PASSWORD, "123123");
+        params.put(SessionParameter.PASSWORD, "*******");
         params.put(SessionParameter.BINDING_TYPE, BindingType.ATOMPUB.value());
         params.put(SessionParameter.REPOSITORY_ID, "KATCO");
         return params;
@@ -70,7 +70,7 @@ public class Main {
     private static Map<String, String> getDestinationParams() {
         Map<String, String> params = new HashMap<String, String>();
         params.put(SessionParameter.USER, "admin");
-        params.put(SessionParameter.PASSWORD, "danilmatessov1978");
+        params.put(SessionParameter.PASSWORD, "*******");
         params.put(SessionParameter.ATOMPUB_URL, "https://katco-ecm-prod.bdom.ad.corp/alfresco/api/-default-/public/cmis/versions/1.1/atom");
         params.put(SessionParameter.BINDING_TYPE, BindingType.ATOMPUB.value());
         params.put(SessionParameter.REPOSITORY_ID, "-default-");
