@@ -1,0 +1,384 @@
+A.020.00.00;A.020.00.00 ~ Люк обслуживания Ду=600 мм
+A.025.00.00;A.025.00.00 ~ Бак расходный для серной кислоты
+A.030.00.00;A.030.00.00 ~ Бак V=300 м3
+A.041.00.00;A.041.00.00 ~ Грязеотстойник объемом 3,6 м3
+A.042.00.00;A.042.00.00 ~ Маслоуловитель объемом 0,6 м3
+A.083.00.00;A.083.00.00 ~ Колонна СНК-3М
+A.086.00.00;A.086.00.00 ~ Сито контрольное
+A.088.00.00;A.088.00.00 ~ Теплообменник-подогреватель
+A.088.01.00;A.088.01.00 ~ Рама
+A.088.02.00;A.088.02.00 ~ Элемент
+A.088.03.00;A.088.03.00 ~ Колено
+A.088.04.00;A.088.04.00 ~ Элемент
+A.090.00.00;A.090.00.00 ~ Окно смотровое Ду 100 Ру 10
+A.090.01.00;A.090.01.00 ~ Корпус
+A.091.00.00;A.091.00.00 ~ Бак V=10 m3
+A.091.01.00;A.091.01.00 ~ Бак
+A.091.02.00;A.091.02.00 ~ Крышка
+A.091.03.00;A.091.03.00 ~ Люк
+A.092.00.00;A.092.00.00 ~ Чан контактный V=10 m3
+A.092.01.00;A.092.01.00 ~ Бак
+A.092.02.00;A.092.02.00 ~ Крышка
+A.092.03.00;A.092.03.00 ~ Вал
+A.092.04.00;A.092.04.00 ~ Рама
+A.092.05.00;A.092.05.00 ~ Кронштейн
+A.092.06.00;A.092.06.00 ~ Ограждение
+A.092.07.00;A.092.07.00 ~ Труба аэрационная
+A.092.08.00;A.092.08.00 ~ Люк
+A.093.00.00;A.093.00.00 ~ Бак V=150 m3
+A.093.01.00;A.093.01.00 ~ Люк обслуживания Ду 600
+A.093.02.00;A.093.02.00 ~ Элемент крыши
+A.094.00.00;A.094.00.00 ~ Бак V=100 m3
+A.094.01.00;A.094.01.00 ~ Люк обслуживания Ду=600
+A.094.02.00;A.094.02.00 ~ Элемент крыши
+A.094.03.00;A.094.03.00 ~ Лестница
+A.094.04.00;A.094.04.00 ~ Обечайка
+A.095.00.00;A.095.00.00 ~ Реактор приготовления щелочи
+A.095.01.00;A.095.01.00 ~ Крышка
+A.095.02.00;A.095.02.00 ~ Клапан
+A.095.03.00;A.095.03.00 ~ Решетка
+A.095.04.00;A.095.04.00 ~ Труба
+A.095.05.00;A.095.05.00 ~ Уголок
+A.095.06.00;A.095.06.00 ~ Отвод
+A.095.07.00;A.095.07.00 ~ Поплавок
+A.095.08.00;A.095.08.00 ~ Корпус
+A.095.09.00;A.095.09.00 ~ Стойка
+A.096.00.00;A.096.00.00 ~ Осушитель воздуха
+A.096.01.00;A.096.01.00 ~ Крышка
+A.096.02.00;A.096.02.00 ~ Корпус
+A.097.00.00;A.097.00.00 ~ Чан контактный V=10 m3
+A.097.01.00;A.097.01.00 ~ Бак
+A.097.02.00;A.097.02.00 ~ Крышка
+A.098.00.00;A.098.00.00 ~ Бак объемом 40 м3
+A.099.00.00;A.099.00.00 ~ Ванна для дезактивации мелкого оборудования
+A.100.00.00;A.100.00.00 ~ Распределитель смолы
+A.102.00.00;A.102.00.00 ~ Труба маточников денитрации
+A.103.00.00;A.103.00.00 ~ Коллектор
+A.104.00.00;A.104.00.00 ~ Опора трубы Ду 700
+A.105.00.00;A.105.00.00 ~ Распределитель смолы
+A.106.00.00;A.106.00.00 ~ Установка гидроэжектора
+A.138.00.00;A.138.00.00 ~ Бак объемом 300 м3
+K.1818.000.00;K.1818.000.00 ~ Люк обслуживания Ду 600
+K.1956.070.00;K.1956.070.00 ~ Кронштейн
+K.2007.000.00;K.2007.000.00 ~ Скруббер пенный
+K.2007.010.00;K.2007.010.00 ~ Крышка
+K.2007.020.00;K.2007.020.00 ~ Секция верхняя
+K.2007.030.00;K.2007.030.00 ~ Секция средняя
+K.2007.040.00;K.2007.040.00 ~ Бак
+K.2007.050.00;K.2007.050.00 ~ Патрубок
+K.2007.060.00;K.2007.060.00 ~ Тройник
+K.2007.070.00;K.2007.070.00 ~ Труба оросительная
+K.2007.080.00;K.2007.080.00 ~ Решетка нижняя
+K.2007.090.00;K.2007.090.00 ~ Окно
+K.2007.100.00;K.2007.100.00 ~ Труба оросительная
+K.2007.110.00;K.2007.110.00 ~ Крышка
+K.2007.120.00;K.2007.120.00 ~ Решетка средняя
+K.2007.130.00;K.2007.130.00 ~ Отбойник
+K.2064.060.00;K.2064.060.00 ~ Крышка люка
+K.2083.000.00;K.2083.000.00 ~ Осушитель воздуха
+K.2083.010.00;K.2083.010.00 ~ Крышка
+K.2083.020.00;K.2083.020.00 ~ Корпус
+K.2103.000.00;K.2103.000.00 ~ Люк обслуживания 500 * 500
+K.2116.000.00;K.2116.000.00 ~ Патрубок Ду 50
+K.2116.010.00;K.2116.010.00 ~ Патрубок
+K.2141.000.00;K.2141.000.00 ~ Емкость V=600 m3
+K.2141.010.00;K.2141.010.00 ~ Обечайка
+K.2141.020.00;K.2141.020.00 ~ Днище
+K.2141.030.00;K.2141.030.00 ~ Диск крыши
+K.2141.040.00;K.2141.040.00 ~ Кронштейн
+K.2141.050.00;K.2141.050.00 ~ Труба
+K.2141.060.00;K.2141.060.00 ~ Поручень
+K.2141.070.00;K.2141.070.00 ~ Крышка люка
+K.2141.080.00;K.2141.080.00 ~ Кронштейн
+K.2141.090.00;K.2141.090.00 ~ Труба
+K.2141.100.00;K.2141.100.00 ~ Люк
+K.2145.000.00;K.2145.000.00 ~ Опора трубы Ду 500
+K.2185.000.00;K.2185.000.00 ~ Емкость Vраб.=25 m3 с фильтром
+K.2185.010.00;K.2185.010.00 ~ Фильтр
+K.2185.020.00;K.2185.020.00 ~ Крышка
+K.2185.030.00;K.2185.030.00 ~ Корпус фильтра
+K.2199.000.00;K.2199.000.00 ~ Патрубок Ду65
+K.2199.010.00;K.2199.010.00 ~ Патрубок
+K.2200.000.00;K.2200.000.00 ~ Патрубок Ду50
+K.2200.010.00;K.2200.010.00 ~ Патрубок
+K.2212.000.00;K.2212.000.00 ~ Колонна SNK-3M
+K.2212.010.00;K.2212.010.00 ~ Секция опорная
+K.2212.020.00;K.2212.020.00 ~ Оголовок загрузки
+K.2212.030.00;K.2212.030.00 ~ Балка
+K.2212.040.00;K.2212.040.00 ~ Сектор крыши
+K.2212.050.00;K.2212.050.00 ~ Карман
+K.2212.060.00;K.2212.060.00 ~ Секция промежуточная
+K.2212.070.00;K.2212.070.00 ~ Секция промежуточная
+K.2212.080.00;K.2212.080.00 ~ Кронштейн
+K.2212.090.00;K.2212.090.00 ~ Лапа
+K.2212.100.00;K.2212.100.00 ~ Крышка люка
+K.2215.000.00;K.2215.000.00 ~ Отвод
+K.2219.000.00;K.2219.000.00 ~ Бак V=400 м3
+K.2219.010.00;K.2219.010.00 ~ Днище
+K.2219.020.00;K.2219.020.00 ~ Отвод
+K.2219.030.00;K.2219.030.00 ~ Диск крыши
+K.2219.040.00;K.2219.040.00 ~ Лист крыши
+K.2219.050.00;K.2219.050.00 ~ Поручень
+K.2219.060.00;K.2219.060.00 ~ Обечайка
+K.2219.070.00;K.2219.070.00 ~ Патрубок
+K.2223.000.00;K.2223.000.00 ~ Бункер V=6 m3
+K.2223.010.00;K.2223.010.00 ~ Корпус
+K.2223.020.00;K.2223.020.00 ~ Сито
+K.2224.000.00;K.2224.000.00 ~ Патрубок
+K.2226.000.00;K.2226.000.00 ~ Емкость V=600m3
+K.2226.010.00;K.2226.010.00 ~ Лист крыши
+K.2226.020.00;K.2226.020.00 ~ Диск крыши
+K.2227.000.00;K.2227.000.00 ~ Распределитель смолы
+K.2231.000.00;K.2231.000.00 ~ Распределитель сорбента
+K.2234.000.00;K.2234.000.00 ~ Опора трубы Ду 1000
+K.2240.000.00;K.2240.000.00 ~ Бак V=50 м3
+K.2240.100.00;K.2240.100.00 ~ Бак
+K.2240.110.00;K.2240.110.00 ~ Элемент крыши
+K.2240.120.00;K.2240.120.00 ~ Ушко
+K.2240.130.00;K.2240.130.00 ~ Поручень
+K.2240.140.00;K.2240.140.00 ~ Диск крыши
+K.2240.150.00;K.2240.150.00 ~ Отвод
+K.2240.160.00;K.2240.160.00 ~ Днище
+K.2240.170.00;K.2240.170.00 ~ Отстойник
+K.2240.180.00;K.2240.180.00 ~ Патрубок
+K.2240.200.00;K.2240.200.00 ~ Площадка обслуживания
+K.2240.300.00;K.2240.300.00 ~ Поручень
+K.2241.000.00;K.2241.000.00 ~ Скруббер 500
+K.2243.000.00;K.2243.000.00 ~ Опора трубы Ду 600
+K.2245.000.00;K.2245.000.00 ~ Емкость Vраб.=20 m3
+K.2291.000.00;K.2291.000.00 ~ Резервуар уравнительный
+K.2291.010.00;K.2291.010.00 ~ Крышка
+K.2291.020.00;K.2291.020.00 ~ Патрубок
+K.2291.040.00;K.2291.040.00 ~ Поручень
+K.2293.000.00;K.2293.000.00 ~ Усиление балок днища бака V=400
+K.2300.000.00;K.2300.000.00 ~ Бункер буферный
+K.2300.021.00;K.2300.021.00 ~ Патрубок
+K.2300.030.00;K.2300.030.00 ~ Люк
+K.2300.040.00;K.2300.040.00 ~ Патрубок
+K.2301.000.00;K.2301.000.00 ~ Шнек
+K.2302.000.00;K.2302.000.00 ~ Компоновка оборудования
+K.2303.000.00;K.2303.000.00 ~ Устройство для монтажа печи
+K.2303.010.00;K.2303.010.00 ~ Ролик
+K.2303.020.00;K.2303.020.00 ~ Опора
+K.2321.000.00;K.2321.000.00 ~ Бак V=5 м3
+K.2321.100.00;K.2321.100.00 ~ Бак
+K.2321.120.00;K.2321.120.00 ~ Корпус
+K.2335.000.00;K.2335.000.00 ~ Патрубок
+K.2336.000.00;K.2336.000.00 ~ Скруббер пенный 600 (реконструкция)
+K.2337.000.00;K.2337.000.00 ~ Скруббер пенный (реконструкция)
+K.2344.000.00;K.2344.000.00 ~ Переход
+K.2345.000.00;K.2345.000.00 ~ Переход
+NON;NON ~ Without discipline
+АД;АД ~ Motorroads
+АЗ;АЗ ~ Corrosion protection of structures
+АИ;АИ ~ Interiors
+АК;АК ~ Complete integrated automation
+АК.01;АК.01 ~ Complete integrated automation 1
+АК.02;АК.02 ~ Complete integrated automation 2
+АК.03;АК.03 ~ Complete integrated automation 3
+АК.04;АК.04 ~ Complete integrated automation 4
+АК.05;АК.05 ~ Complete integrated automation 5
+АК.06;АК.06 ~ Complete integrated automation 6
+АК.07;АК.07 ~ Complete integrated automation 7
+АК.08;АК.08 ~ Complete integrated automation 8
+АК.09;АК.09 ~ Complete integrated automation 9
+АК.10;АК.10 ~ Complete integrated automation 10
+АК.С;АК.С ~ Complete integrated automation. Equipment specification
+АК.С1;АК.С1 ~ Complete integrated automation. Equipment specification 1
+АК.С2;АК.С2 ~ Complete integrated automation. Equipment specification 2
+АПТ;АПТ ~ Automatic fire-fighting
+АПТ.С;АПТ.С ~ Automatic fire-fighting. Equipment specification
+АР;АР ~ Architectural concepts
+АР.И;АР.И ~ Architectural concepts. Items
+АРИ;АРИ ~ Architectural Items
+АС;АС ~ Architectural and construction concepts
+АС.ВР;АС.ВР ~ Architectural and construction concepts. List.
+АС.ОЛ;АС.ОЛ ~ Architectural and construction concepts. Questionnaire.
+АС.С;АС.С ~ Architectural and construction concepts. Equipment specification
+АС1;АС1 ~ Architectural and construction concepts 1
+АС2;АС2 ~ Architectural and construction concepts 2
+АСИ;АСИ ~ Architectural and construction concepts. Items
+АСИ-А1;АСИ-А1 ~ Architectural and construction concepts, Items
+АСИ-ДЭ;АСИ-ДЭ ~ Architectural and construction concepts. Items. Specification of additional elements
+АСИ-ТР1;АСИ-ТР1 ~ Architectural and construction concepts. Items. Polyethylene tube
+АТХ;АТХ ~ Process control
+АТХ.Н1;АТХ.Н1 ~ Process control. External 1
+АТХ.Н2;АТХ.Н2 ~ Process control. External 2
+АТХ.Н3;АТХ.Н3 ~ Process control. External 3
+АТХ.С;АТХ.С ~ Process control. Equipment specification
+ВВ;ВВ ~ Off-site water pipelines.
+ВВ.С;ВВ.С ~ Off-site water pipelines. Equipment specification.
+ВК;ВК ~ Water and sewer lines
+ВК.ОЛ;ВК.ОЛ ~ Water and sewer lines. Qustionnaire list
+ВК.С;ВК.С ~ Water and sewer lines. Equipment specification
+ВК-АН;ВК-АН ~ Water and sewer lines. Designer's inspection
+ВСС;ВСС ~ Off-site telecommunication networks
+ВСС.ВМ;ВСС.ВМ ~ Off-site telecommunication networks. Material list
+ВСС.С;ВСС.С ~ Off-site telecommunication networks. Equipment specification
+ВЭС;ВЭС ~ On-site power supply
+ВЭС.ОЛ;ВЭС.ОЛ ~ On-site power supply. Qustionnaire list
+ВЭС.С;ВЭС.С ~ On-site power supply. Equipment specification.
+ГГС;ГГС ~ Loud-speaking communication
+ГГС.С;ГГС.С ~ Loud-speaking communication. Equipment specification.
+ГП;ГП ~ General Layout
+ГПТ;ГПТ ~ Gas fire-fighting
+ГПТ.С;ГПТ.С ~ Gas fire-fighting. Equipment specification
+ГР;ГР ~ Hydrotechnical concepts
+ГР.С;ГР.С ~ Hydrotechnical concepts. Equipment specification
+ГСВ;ГСВ ~ Gas supply (internal means)
+ГСН;ГСН ~ External gas pipelines
+ГТ;ГТ ~ general alyout and structure of transport
+ГТ.ВР;ГТ.ВР ~ General layout and structure of transport. Work list
+ГТ-КМ;ГТ-КМ ~ general alyout and structure of transport. Steel structure
+Д.729.021.00;Д.729.021.00 ~ Детали
+ИЗ;ИЗ ~ engineering survey
+КД;КД ~ wooden structures
+КЖ;КЖ ~ Reinforced concrete structures
+КЖ.РС1;КЖ.РС1 ~ Reinforced concrete structures. Calculation 1
+КЖ.РС2;КЖ.РС2 ~ Reinforced concrete structures. Calculation 2
+КЖ1;КЖ1 ~ Reinforced concrete structures 1
+КЖ1И;КЖ1И ~ Reinforced concrete structures 1. Items
+КЖ2;КЖ2 ~ Reinforced concrete structures 2
+КЖ2И;КЖ2И ~ Reinforced concrete structures 2. Items
+КЖ-АН;КЖ-АН ~ Reinforced concrete structures. Designer's inspection
+КЖИ;КЖИ ~ Reinforced concrete structures. Items
+КК;КК ~ Cable Sewage
+КМ;КМ ~ Steel structures
+КМ.С;КМ.С ~ Steel structures. Equipment specification
+КМ.СМ;КМ.СМ ~ Steel structures. Rolled metal products specification
+КМ1;КМ1 ~ Steel structures 1
+КМ1.СМ;КМ1.СМ ~ Steel structures specification 1
+КМ2;КМ2 ~ Steel structures 2
+КМ2.СМ;КМ2.СМ ~ Steel structures specification 2
+КМ3;КМ3 ~ Steel structures 3
+КМ-АН;КМ-АН ~ Steel structures. Designer's inspection
+КМД;КМД ~ Metal detail structures
+ЛЧ;ЛЧ ~ Linear part
+ЛЧ.С;ЛЧ.С ~ Linear part. Equipment specification.
+ЛЧ.С1;ЛЧ.С1 ~ Linear part. Equipment specification 1
+ЛЧ.С2;ЛЧ.С2 ~ Linear part. Equipment specification 2
+ЛЧ1;ЛЧ1 ~ Linear part 1
+ЛЧ2;ЛЧ2 ~ Linear part 2
+НВ;НВ ~ External systems of water supply
+НВ.С;НВ.С ~ External systems of water supply. Equipment specification.
+НВК;НВК ~ Network, water supply and sewer
+НВК.АС;НВК.АС ~ Network, water supply and sewer. Archit and constr concepts.
+НВК.ОЛ;НВК.ОЛ ~ Network, water supply and sewer. Questionary
+НВК.ОЛ1;НВК.ОЛ1 ~ Network, water supply and sewer. Questionary1
+НВК.ОЛ2;НВК.ОЛ2 ~ Network, water supply and sewer. Questionary2
+НВК.С;НВК.С ~ Network, water supply and sewer. Equipment Specification
+НК;НК ~ External systems of canalization
+НК.С;НК.С ~ External systems of canalization. Equipment Specification.
+НСС;НСС ~ External systems of connections
+НСС.ВМ;НСС.ВМ ~ External systems of connections. Materials list
+НСС.Л;НСС.Л ~ External systems of connections. List
+НСС.С;НСС.С ~ External systems of connections. Equipment Spec
+ОВ;ОВ ~ HVAC
+ОВ.Л;ОВ.Л ~ HVAC. Equipment Specification
+ОВ.ОЛ;ОВ.ОЛ ~ HVAC. Questionnaire list
+ОВ.ОЛ1;ОВ.ОЛ1 ~ HVAC. Questionnaire list 1
+ОВ.ОЛ2;ОВ.ОЛ2 ~ HVAC. Questionnaire list 2
+ОВ.С;ОВ.С ~ HVAC. Equipment Specification
+ОВ.УК;ОВ.УК ~ HVAC. Scheme of ventilation bonding support
+ОВОС;ОВОС ~ Environmental Impact Assessment
+ОС;ОС ~ Общеплощадочные материалы
+ПЖ;ПЖ ~ Railway lines
+ПЗ;ПЗ ~ Explanation note
+ПОС;ПОС ~ Project of construction organization
+ПП;ПП ~ Passport of project
+ППР;ППР ~ Work Production Plan
+ПС;ПС ~ Fire alarm
+ПС.Л;ПС.Л ~ Fire alarm. List
+ПС.С;ПС.С ~ Fire alarm. Equipment Specification
+ПС1;ПС1 ~ Fire alarm 1
+ПС1.C;ПС1.C ~ Fire alarm. Equipment specification 1
+ПТ;ПТ ~ Firefighting
+ПТ.С;ПТ.С ~ Firefighting. Equipment specification
+ПЭ;ПЭ ~ Energy passport
+РАС;РАС ~ Calculations
+РТ;РТ ~ Radio communication, broadcasting and television
+СП;СП ~ Situation plan
+СС;СС ~ Communications systems
+СС.ВМ;СС.ВМ ~ Communications systems. Material list
+СС.С;СС.С ~ Communications systems. Equipment specification
+ТК;ТК ~ Process communications
+ТК.ВТ;ТК.ВТ ~ Process communications. Pipeline list
+ТК.КЖ;ТК.КЖ ~ Process communications. Reinforced concrete structures.
+ТК.КЖИ;ТК.КЖИ ~ Process communications. Reinforced concrete structures. Items.
+ТК.С;ТК.С ~ Process communications. Equipment Specification
+ТК.С1;ТК.С1 ~ Process communications. Equipment Specification 1
+ТК.С2;ТК.С2 ~ Process communications. Equipment Specification 2
+ТК1;ТК1 ~ Process communications 1
+ТК2;ТК2 ~ Process communications 2
+ТМ;ТМ ~ Mechanical annexes of boilers
+ТМ.1;ТМ.1 ~ Mechanical annexes of boilers 1
+ТМ.1.ОЛ;ТМ.1.ОЛ ~ Mechanical annexes of boilers 1. Questionnaire list.
+ТМ.1.С;ТМ.1.С ~ Mechanical annexes of boilers 1. Equipment specification
+ТМ.ОЛ;ТМ.ОЛ ~ Mechanical annexes of boilers. Questionnaire list.
+ТМ.ОЛ1;ТМ.ОЛ1 ~ Mechanical annexes of boilers. Questionnaire list 1.
+ТМ.С;ТМ.С ~ Mechanical annexes of boilers. Equipment specification
+ТМ-АН;ТМ-АН ~ Mechanical annexes of boilers. Designer's inspection.
+ТП;ТП ~ Fuel supply
+ТП.С;ТП.С ~ Fuel supply. Equipment specification
+ТС;ТС ~ Heat supply systems
+ТС.КЖ;ТС.КЖ ~ Heat supply systems. Reinforced concrete structures
+ТС.КЖИ;ТС.КЖИ ~ Heat supply systems. Reinforced concrete structures. Items
+ТС.С;ТС.С ~ Heat supply systems. Equipment specification
+ТХ;ТХ ~ Production technology
+ТХ.ВТ;ТХ.ВТ ~ Production technology. Pipeline list
+ТХ.ИТ1;ТХ.ИТ1 ~ Production technology. Initial requirements 1
+ТХ.ИТ2;ТХ.ИТ2 ~ Production technology. Initial requirements 2
+ТХ.ИТ3;ТХ.ИТ3 ~ Production technology. Initial requirements 3
+ТХ.ОЛ;ТХ.ОЛ ~ Production technology. Questionnaire list
+ТХ.С;ТХ.С ~ Production technology. Equipment specification
+ТХ.УК;ТХ.УК ~ Production technology. Joint node
+ТХ1;ТХ1 ~ Production technology 1
+ТХ1.С;ТХ1.С ~ Production technology 1. Equipment specification
+ТХ2;ТХ2 ~ Production technology 2
+ТХ2.ВТ;ТХ2.ВТ ~ Production technology 2. Pipeline list
+ТХ2.С;ТХ2.С ~ Production technology 2. Equipment specification
+ТХБ;ТХБ ~ Production technology. Equipment location plan
+ТХБ.С;ТХБ.С ~ Production technology. Equipment location plan. Equipment specification
+ХС;ХС ~ Cold supply
+ХС.КЖ;ХС.КЖ ~ Cold supply. Reinforced concrete structures
+ХС.КЖИ;ХС.КЖИ ~ Cold supply. Reinforced concrete structures. Items
+ХС.С;ХС.С ~ Cold supply. Equipment specification
+ЭГ;ЭГ ~ Lightning protection
+ЭГ.С;ЭГ.С ~ Lightning protection. Specification.
+ЭЛ;ЭЛ ~ Electrical engineering
+ЭЛ.С;ЭЛ.С ~ Electrical engineering. Equipment specification.
+ЭМ;ЭМ ~ Power equipment
+ЭМ.ВМ;ЭМ.ВМ ~ Power equipment. Materials list
+ЭМ.Н1;ЭМ.Н1 ~ Power equipment. External 1
+ЭМ.Н2;ЭМ.Н2 ~ Power equipment. External 2
+ЭМ.Н3;ЭМ.Н3 ~ Power equipment. External 3
+ЭМ.Н4;ЭМ.Н4 ~ Power equipment. External 4
+ЭМ.Н5;ЭМ.Н5 ~ Power equipment. External 5
+ЭМ.ОЛ;ЭМ.ОЛ ~ Power equipment. Questionnaire list
+ЭМ.ОЛ1;ЭМ.ОЛ1 ~ Power equipment. Questionnaire list 1
+ЭМ.С;ЭМ.С ~ Power equipment. Equipment specification
+ЭМ1;ЭМ1 ~ Power equipment 1
+ЭМ1.С;ЭМ1.С ~ Power equipment. Equipment specification 1
+ЭМ-АН;ЭМ-АН ~ Power equipment. Designer's inspection
+ЭМ-АН.ВМ;ЭМ-АН.ВМ ~ Power equipment. Material list. Designer's inspection
+ЭМИ;ЭМИ ~ Power equipment. Items
+ЭН;ЭН ~ External electricity
+ЭН.ОЛ;ЭН.ОЛ ~ External electricity. Questionnaire list
+ЭН.С;ЭН.С ~ External electricity. Equipment specification
+ЭО;ЭО ~ Electrical lighting
+ЭО.ВМ;ЭО.ВМ ~ Electrical lighting. Material list
+ЭО.С;ЭО.С ~ Electrical lighting. Equipment Specification
+ЭОМ;ЭОМ ~ Electrical lighting (internal). Materials
+ЭОМ.С;ЭОМ.С ~ Electrical lighting (internal). Materials. Equipment specification
+ЭП;ЭП ~ Passport of execution plan
+ЭС;ЭС ~ Mains, power, intrasite
+ЭС.1;ЭС.1 ~ Mains, power, intrasite 1
+ЭС.1.С;ЭС.1.С ~ Mains, power, intrasite 1. Equipment specification
+ЭС.2;ЭС.2 ~ Mains, power, intrasite 2
+ЭС.2.С;ЭС.2.С ~ Mains, power, intrasite 2. Equipment specification
+ЭС.ВМ;ЭС.ВМ ~ Mains, power, intrasite. Materials list
+ЭС.С;ЭС.С ~ Mains, power, intrasite. Equipment Specification
+ЭС.С1;ЭС.С1 ~ Mains, power, intrasite. Equipment Specification 1
+ЭС.С2;ЭС.С2 ~ Mains, power, intrasite. Equipment Specification 2
+ЭСН;ЭСН ~ Mains, power, intrasite. External
+ЭСН.С;ЭСН.С ~ Mains, power, intrasite. External. Equipment specification

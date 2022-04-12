@@ -1,0 +1,54 @@
+TD;Technical Direction
+FD;Financial Direction
+HSERPSD;Health, Safety, Environment, Radiation Protection and Social Direction
+HRD;Human Resources Direction
+LD;Legal Direction
+GD;General Direction
+GEOS;Geosciences Direction
+PURD;Purchasing Direction
+DP;Project Direction
+MAIN;Maintenance Direction
+LOGD;Logistic Department
+DEM;Mining Direction
+QUA;Quality Service
+PD;Plant Direction
+DIR;Direction
+IGM;Infrastructure Group MNK
+TSRDM;Technical Service and Repair Department MNK
+EAM;Electricity and Automatization Service MNK
+MTG;Methodology Group
+IGT;Infrastructure Group TKD
+TSRDT;Technical Service and Repair Department TKD
+MGT;Mechanical Group TKD
+ES;Electricity Service
+EM;Engine Maintenance Service
+EAT;Electricity and Automatization Service TKD
+MGM;Mechanical Group MNK
+TS;Transportation Service
+IES;Import & Export Service
+MMS;Material Management Service
+DD;Drilling Department
+ECP;ISR Department
+DVM;Mining Forecast and Wells Validation Department
+NA;Department without Service
+TQC;Technical Quality Control Service
+PROD;Production Department
+LAB;Laboratory Service
+SSIT;Information Systems and Telecommunication Department
+TAX;Tax Department
+FCD;Financial Controlling Department
+AC;Accounting Department
+FGS;Financial Group on Site
+OHS;Occupational Health and Safety Department 
+ERP;Environment, Radiation Protection Department
+NA;Direction without Department
+PR;Purchasing
+LAD;Logging and Adjustment Department
+EXPLO;Exploration Department
+DRRD;Data, Resources and Reserves Department
+PCS;Project Control and Service Department
+PPIS;Project Plant and Infrastructure Service
+PED;Project Execution Department
+PTD;Project Technical Department
+PCD;Project Construction Department
+PPS;Project Piping Service

@@ -1,0 +1,24 @@
+0;0 ~ General Documents of the Unit
+00;00 ~ General
+1;1 ~ Well Fields
+10;10 ~ PR Trunk pipelines | 10 ~ Sulphuric Acid Storage | 10 ~ Sewage treatment facilities
+11;11 ~ PR Secondary pipelines
+2;2 ~ Fixation
+20;20 ~ VR Trunk pipelines | 20 ~ Uranium Precipitation | 20 ~ Ammonium Nitrat Storage | 20 ~ KATCO modular camp
+22;22 ~ VR Secondary pipelines
+3;3 ~ Elution
+30;"30 ~ RVR Trunk pipelines | 30 ~ Yellow Cake Filtration | 30 ~ Eluate Storage | 30 ~ Base Camp Revamping ""Shanyrak"""
+33;33 ~ RVR Secondary pipelines
+4;4 ~ Precipitation
+40;40 ~ Acid Trunk pipelines | 40 ~ Settling of particles (sand) | 40 ~ Hydrogen Peroxyde Storage
+44;44 ~ Acid Secondary pipelines
+5;5 ~ Drying - Calcination - Packaging
+50;50 ~ Ammonium Hydroxyde Storage | 50 ~ Car wash
+6;6 ~ Storages
+60;60 ~ Flocculant Storage | 60 ~ Temporary base camp for contractors
+7;7 ~ Utilities
+70;70 ~ Final Product Storage | 70 ~ Cvehicles maintenance centre
+8;8 ~ Open
+80;80 ~ Diesel Storage
+9;9 ~ Building - Infrastructures
+90;90 ~ Central warehouse
